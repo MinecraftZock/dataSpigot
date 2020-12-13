@@ -1,3 +1,4 @@
 session.lock
 minecraft_server.*.jar
 logs
+*old

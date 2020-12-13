@@ -21,18 +21,6 @@ messages:
 stats:
   disable-saving: false
   forced-stats: {}
-commands:
-  log: true
-  spam-exclusions:
-  - /skill
-  silent-commandblock-console: false
-  replace-commands:
-  - setblock
-  - summon
-  - testforblock
-  - tellraw
-  tab-complete: 0
-  send-namespaced: true
 settings:
   bungeecord: false
   sample-count: 12
@@ -54,10 +42,24 @@ settings:
       max: 2048.0
     attackDamage:
       max: 2048.0
+commands:
+  spam-exclusions:
+  - /skill
+  silent-commandblock-console: false
+  replace-commands:
+  - setblock
+  - summon
+  - testforblock
+  - tellraw
+  tab-complete: 0
+  send-namespaced: true
+  log: true
 advancements:
   disable-saving: false
   disabled:
   - minecraft:story/disabled
+players:
+  disable-saving: false
 world-settings:
   default:
     verbose: true
@@ -82,8 +84,8 @@ world-settings:
     seed-portal: 34222645
     max-tnt-per-tick: 100
     enable-zombie-pigmen-portal-spawns: true
-    view-distance: default
     item-despawn-rate: 6000
+    view-distance: default
     wither-spawn-sound-radius: 0
     arrow-despawn-rate: 1200
     trident-despawn-rate: 1200
