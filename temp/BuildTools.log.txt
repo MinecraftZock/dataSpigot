@@ -1,0 +1,4 @@
+Loading BuildTools version: git-BuildTools-7fe9375-122 (#122)
+Java Version: Java 8
+Current Path: /data/temp/.
+Could not successfully run git. Please ensure it is installed and functioning. Cannot run program "git" (in directory "."): error=2, No such file or directory
