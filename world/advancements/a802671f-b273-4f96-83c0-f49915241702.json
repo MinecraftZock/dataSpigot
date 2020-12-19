@@ -53,6 +53,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/spruce_door": {
+    "criteria": {
+      "has_planks": "2020-12-19 19:27:44 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/lime_concrete_powder": {
     "criteria": {
       "has_gravel": "2020-12-04 16:39:06 +0000"
@@ -86,6 +92,12 @@
   "minecraft:recipes/building_blocks/yellow_concrete_powder": {
     "criteria": {
       "has_gravel": "2020-12-04 16:39:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_fence_gate": {
+    "criteria": {
+      "has_planks": "2020-12-19 19:27:44 +0000"
     },
     "done": true
   },
@@ -152,6 +164,12 @@
   "minecraft:recipes/building_blocks/chiseled_stone_bricks_stone_from_stonecutting": {
     "criteria": {
       "has_stone": "2020-12-06 14:48:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_button": {
+    "criteria": {
+      "has_planks": "2020-12-19 19:27:44 +0000"
     },
     "done": true
   },
@@ -395,6 +413,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/spruce_planks": {
+    "criteria": {
+      "has_logs": "2020-12-19 19:18:02 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/lime_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_glass_pane": "2020-12-06 14:51:30 +0000"
@@ -455,6 +479,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/black_bed": {
+    "criteria": {
+      "has_black_wool": "2020-12-19 19:00:58 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/gray_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2020-12-05 19:48:23 +0000"
@@ -491,7 +521,9 @@
       "minecraft:skeleton": "2020-12-04 16:05:08 +0000",
       "minecraft:spider": "2020-12-04 16:53:38 +0000",
       "minecraft:creeper": "2020-12-05 18:52:52 +0000",
+      "minecraft:witch": "2020-12-18 15:28:19 +0000",
       "minecraft:cave_spider": "2020-12-05 19:15:38 +0000",
+      "minecraft:enderman": "2020-12-18 15:09:59 +0000",
       "minecraft:zombie": "2020-12-04 16:23:46 +0000",
       "minecraft:drowned": "2020-12-05 18:05:31 +0000",
       "minecraft:zombie_villager": "2020-12-06 17:06:57 +0000"
@@ -756,6 +788,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/spruce_wood": {
+    "criteria": {
+      "has_log": "2020-12-19 19:18:02 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/yellow_dye_from_dandelion": {
     "criteria": {
       "has_yellow_flower": "2020-12-06 15:25:52 +0000"
@@ -813,6 +851,12 @@
   "minecraft:recipes/tools/iron_axe": {
     "criteria": {
       "has_iron_ingot": "2020-12-04 16:24:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/black_banner": {
+    "criteria": {
+      "has_black_wool": "2020-12-19 19:00:58 +0000"
     },
     "done": true
   },
@@ -900,6 +944,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/spruce_pressure_plate": {
+    "criteria": {
+      "has_planks": "2020-12-19 19:27:44 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/oak_sign": {
     "criteria": {
       "has_oak_planks": "2020-12-04 15:57:26 +0000"
@@ -983,9 +1033,12 @@
       "minecraft:forest": "2020-12-04 16:00:09 +0000",
       "minecraft:mountains": "2020-12-05 18:10:44 +0000",
       "minecraft:taiga": "2020-12-05 18:29:52 +0000",
+      "minecraft:beach": "2020-12-19 19:25:25 +0000",
+      "minecraft:dark_forest": "2020-12-19 19:05:42 +0000",
       "minecraft:river": "2020-11-29 08:56:43 +0000",
       "minecraft:wooded_hills": "2020-11-29 08:55:50 +0000",
-      "minecraft:swamp": "2020-12-05 18:28:57 +0000"
+      "minecraft:swamp": "2020-12-05 18:28:57 +0000",
+      "minecraft:plains": "2020-12-19 19:01:11 +0000"
     },
     "done": false
   },
@@ -1573,7 +1626,8 @@
   "minecraft:husbandry/bred_all_animals": {
     "criteria": {
       "minecraft:cow": "2020-12-05 18:13:40 +0000",
-      "minecraft:chicken": "2020-12-06 16:35:29 +0000"
+      "minecraft:chicken": "2020-12-06 16:35:29 +0000",
+      "minecraft:wolf": "2020-12-19 19:59:09 +0000"
     },
     "done": false
   },
@@ -1757,6 +1811,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/spruce_fence": {
+    "criteria": {
+      "has_planks": "2020-12-19 19:27:44 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/diamond_hoe": {
     "criteria": {
       "has_diamond": "2020-12-04 16:28:56 +0000"
@@ -1793,6 +1853,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/trade": {
+    "criteria": {
+      "traded": "2020-12-19 19:28:29 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/granite_slab": {
     "criteria": {
       "has_granite": "2020-12-04 16:36:04 +0000"
@@ -1808,6 +1874,12 @@
   "minecraft:recipes/decorations/black_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_glass_pane": "2020-12-06 14:51:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_stairs": {
+    "criteria": {
+      "has_planks": "2020-12-19 19:27:44 +0000"
     },
     "done": true
   },
@@ -1937,6 +2009,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/spruce_sign": {
+    "criteria": {
+      "has_spruce_planks": "2020-12-19 19:27:44 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/paper": {
     "criteria": {
       "has_reeds": "2020-12-05 18:29:55 +0000"
@@ -2033,6 +2111,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/black_carpet": {
+    "criteria": {
+      "has_black_wool": "2020-12-19 19:00:58 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/coal_block": {
     "criteria": {
       "has_coal": "2020-12-04 16:36:29 +0000"
@@ -2084,6 +2168,12 @@
   "minecraft:recipes/tools/netherite_axe_smithing": {
     "criteria": {
       "has_netherite_ingot": "2020-12-16 18:17:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_slab": {
+    "criteria": {
+      "has_planks": "2020-12-19 19:27:44 +0000"
     },
     "done": true
   },
@@ -2234,6 +2324,12 @@
   "minecraft:recipes/redstone/iron_door": {
     "criteria": {
       "has_iron_ingot": "2020-12-04 16:24:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/composter": {
+    "criteria": {
+      "has_the_recipe": "2020-12-19 19:28:07 +0000"
     },
     "done": true
   },
@@ -2396,6 +2492,12 @@
   "minecraft:recipes/building_blocks/stone_stairs": {
     "criteria": {
       "has_stone": "2020-12-06 14:48:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_trapdoor": {
+    "criteria": {
+      "has_planks": "2020-12-19 19:27:44 +0000"
     },
     "done": true
   },
