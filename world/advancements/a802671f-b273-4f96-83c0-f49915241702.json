@@ -746,6 +746,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/leather": {
+    "criteria": {
+      "has_rabbit_hide": "2020-12-20 19:31:17 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/cyan_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_glass_pane": "2020-12-06 14:51:30 +0000"
@@ -1033,11 +1039,14 @@
       "minecraft:forest": "2020-12-04 16:00:09 +0000",
       "minecraft:mountains": "2020-12-05 18:10:44 +0000",
       "minecraft:taiga": "2020-12-05 18:29:52 +0000",
+      "minecraft:taiga_hills": "2020-12-20 20:29:45 +0000",
       "minecraft:beach": "2020-12-19 19:25:25 +0000",
       "minecraft:dark_forest": "2020-12-19 19:05:42 +0000",
       "minecraft:river": "2020-11-29 08:56:43 +0000",
+      "minecraft:birch_forest_hills": "2020-12-20 20:32:36 +0000",
       "minecraft:wooded_hills": "2020-11-29 08:55:50 +0000",
       "minecraft:swamp": "2020-12-05 18:28:57 +0000",
+      "minecraft:savanna": "2020-12-20 20:33:56 +0000",
       "minecraft:plains": "2020-12-19 19:01:11 +0000"
     },
     "done": false
@@ -2510,6 +2519,12 @@
   "minecraft:recipes/decorations/light_gray_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_glass_pane": "2020-12-06 14:51:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stripped_spruce_wood": {
+    "criteria": {
+      "has_log": "2020-12-20 19:05:24 +0000"
     },
     "done": true
   },
