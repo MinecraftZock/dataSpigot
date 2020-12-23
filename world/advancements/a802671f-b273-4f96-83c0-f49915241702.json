@@ -359,6 +359,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/warped_fence_gate": {
+    "criteria": {
+      "has_planks": "2020-12-22 18:13:19 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/blue_wool": {
     "criteria": {
       "has_white_wool": "2020-12-04 16:00:17 +0000"
@@ -519,10 +525,14 @@
     "criteria": {
       "minecraft:pillager": "2020-12-05 20:27:12 +0000",
       "minecraft:skeleton": "2020-12-04 16:05:08 +0000",
+      "minecraft:ghast": "2020-12-23 16:12:56 +0000",
+      "minecraft:hoglin": "2020-12-22 16:03:47 +0000",
       "minecraft:spider": "2020-12-04 16:53:38 +0000",
       "minecraft:creeper": "2020-12-05 18:52:52 +0000",
+      "minecraft:zombified_piglin": "2020-12-23 15:58:49 +0000",
       "minecraft:witch": "2020-12-18 15:28:19 +0000",
       "minecraft:cave_spider": "2020-12-05 19:15:38 +0000",
+      "minecraft:piglin": "2020-12-22 15:59:05 +0000",
       "minecraft:enderman": "2020-12-18 15:09:59 +0000",
       "minecraft:zombie": "2020-12-04 16:23:46 +0000",
       "minecraft:drowned": "2020-12-05 18:05:31 +0000",
@@ -986,6 +996,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/warped_planks": {
+    "criteria": {
+      "has_logs": "2020-12-22 15:59:25 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/red_concrete_powder": {
     "criteria": {
       "has_gravel": "2020-12-04 16:39:06 +0000"
@@ -1001,6 +1017,12 @@
   "minecraft:recipes/misc/iron_nugget_from_blasting": {
     "criteria": {
       "has_iron_pickaxe": "2020-12-04 16:24:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/warped_fence": {
+    "criteria": {
+      "has_planks": "2020-12-22 18:13:19 +0000"
     },
     "done": true
   },
@@ -1203,10 +1225,18 @@
   },
   "minecraft:nether/explore_nether": {
     "criteria": {
+      "minecraft:crimson_forest": "2020-12-22 16:01:45 +0000",
       "minecraft:nether_wastes": "2020-12-06 17:19:08 +0000",
-      "minecraft:basalt_deltas": "2020-12-06 17:22:27 +0000"
+      "minecraft:basalt_deltas": "2020-12-06 17:22:27 +0000",
+      "minecraft:warped_forest": "2020-12-22 15:59:09 +0000"
     },
     "done": false
+  },
+  "minecraft:recipes/misc/gold_nugget_from_smelting": {
+    "criteria": {
+      "has_golden_leggings": "2020-12-22 16:06:13 +0000"
+    },
+    "done": true
   },
   "minecraft:recipes/building_blocks/polished_diorite": {
     "criteria": {
@@ -1436,6 +1466,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/mushroom_stew": {
+    "criteria": {
+      "has_brown_mushroom": "2020-12-23 16:11:17 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/gray_wool": {
     "criteria": {
       "has_white_wool": "2020-12-04 16:00:17 +0000"
@@ -1491,6 +1527,12 @@
   "minecraft:recipes/misc/bucket": {
     "criteria": {
       "has_iron_ingot": "2020-12-04 16:24:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/warped_hyphae": {
+    "criteria": {
+      "has_log": "2020-12-22 15:59:25 +0000"
     },
     "done": true
   },
@@ -1736,6 +1778,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/warped_pressure_plate": {
+    "criteria": {
+      "has_planks": "2020-12-22 18:13:19 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/golden_apple": {
     "criteria": {
       "has_gold_ingot": "2020-12-04 17:37:39 +0000"
@@ -1787,6 +1835,12 @@
   "minecraft:recipes/building_blocks/polished_blackstone": {
     "criteria": {
       "has_blackstone": "2020-12-06 18:12:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bowl": {
+    "criteria": {
+      "has_brown_mushroom": "2020-12-23 16:11:17 +0000"
     },
     "done": true
   },
@@ -2054,6 +2108,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/warped_button": {
+    "criteria": {
+      "has_planks": "2020-12-22 18:13:19 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/diamond_axe": {
     "criteria": {
       "has_diamond": "2020-12-04 16:28:56 +0000"
@@ -2084,6 +2144,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/warped_stairs": {
+    "criteria": {
+      "has_planks": "2020-12-22 18:13:19 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/painting": {
     "criteria": {
       "has_wool": "2020-12-04 16:00:17 +0000"
@@ -2093,6 +2159,12 @@
   "minecraft:recipes/building_blocks/white_stained_glass": {
     "criteria": {
       "has_glass": "2020-12-05 20:18:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/warped_trapdoor": {
+    "criteria": {
+      "has_planks": "2020-12-22 18:13:19 +0000"
     },
     "done": true
   },
@@ -2141,6 +2213,12 @@
   "minecraft:recipes/redstone/light_weighted_pressure_plate": {
     "criteria": {
       "has_gold_ingot": "2020-12-04 17:37:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget_from_blasting": {
+    "criteria": {
+      "has_golden_leggings": "2020-12-22 16:06:13 +0000"
     },
     "done": true
   },
@@ -2207,6 +2285,12 @@
   "minecraft:recipes/combat/golden_helmet": {
     "criteria": {
       "has_gold_ingot": "2020-12-04 17:37:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/warped_sign": {
+    "criteria": {
+      "has_warped_planks": "2020-12-22 18:13:19 +0000"
     },
     "done": true
   },
@@ -2504,6 +2588,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/warped_door": {
+    "criteria": {
+      "has_planks": "2020-12-22 18:13:19 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/spruce_trapdoor": {
     "criteria": {
       "has_planks": "2020-12-19 19:27:44 +0000"
@@ -2573,6 +2663,12 @@
   "minecraft:recipes/building_blocks/bone_block": {
     "criteria": {
       "has_bonemeal": "2020-12-04 16:45:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/warped_slab": {
+    "criteria": {
+      "has_planks": "2020-12-22 18:13:19 +0000"
     },
     "done": true
   },
