@@ -35,6 +35,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/light_blue_dye_from_blue_orchid": {
+    "criteria": {
+      "has_red_flower": "2021-01-17 16:47:05 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone_bricks": {
     "criteria": {
       "has_stone": "2020-12-06 14:37:12 +0000"
@@ -140,6 +146,12 @@
   "minecraft:recipes/decorations/ladder": {
     "criteria": {
       "has_stick": "2020-12-05 18:03:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/map": {
+    "criteria": {
+      "has_compass": "2021-01-17 17:39:00 +0000"
     },
     "done": true
   },
@@ -593,6 +605,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/light_gray_dye_from_azure_bluet": {
+    "criteria": {
+      "has_red_flower": "2021-01-17 18:02:50 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/iron_nugget_from_smelting": {
     "criteria": {
       "has_iron_pickaxe": "2020-12-05 17:59:32 +0000"
@@ -746,6 +764,12 @@
   "minecraft:recipes/brewing/glass_bottle": {
     "criteria": {
       "has_glass": "2020-12-05 19:56:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/leather": {
+    "criteria": {
+      "has_rabbit_hide": "2021-01-17 18:07:48 +0000"
     },
     "done": true
   },
@@ -1061,7 +1085,9 @@
       "minecraft:mountains": "2020-12-05 17:57:41 +0000",
       "minecraft:taiga": "2020-12-19 19:36:09 +0000",
       "minecraft:taiga_hills": "2020-12-19 19:36:29 +0000",
+      "minecraft:birch_forest": "2021-01-17 17:47:14 +0000",
       "minecraft:beach": "2020-12-20 08:47:10 +0000",
+      "minecraft:dark_forest": "2021-01-17 17:47:25 +0000",
       "minecraft:river": "2020-12-05 17:57:31 +0000",
       "minecraft:birch_forest_hills": "2020-12-20 20:32:40 +0000",
       "minecraft:wooded_mountains": "2020-12-19 19:37:34 +0000",
@@ -1318,6 +1344,12 @@
   "minecraft:recipes/misc/writable_book": {
     "criteria": {
       "has_book": "2020-12-06 17:47:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/wheat": {
+    "criteria": {
+      "has_hay_block": "2021-01-17 17:21:09 +0000"
     },
     "done": true
   },
