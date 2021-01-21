@@ -624,6 +624,7 @@
       "minecraft:ravager": "2021-01-10 15:08:53 +0000",
       "minecraft:ghast": "2020-12-23 16:12:56 +0000",
       "minecraft:hoglin": "2020-12-22 16:03:47 +0000",
+      "minecraft:guardian": "2021-01-20 17:14:33 +0000",
       "minecraft:vindicator": "2021-01-02 16:35:42 +0000",
       "minecraft:magma_cube": "2021-01-14 18:46:02 +0000",
       "minecraft:spider": "2020-12-04 16:53:38 +0000",
@@ -1222,6 +1223,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/prismarine_bricks": {
+    "criteria": {
+      "has_prismarine_shard": "2021-01-20 17:14:34 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/warped_planks": {
     "criteria": {
       "has_logs": "2020-12-22 15:59:25 +0000"
@@ -1538,6 +1545,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/prismarine": {
+    "criteria": {
+      "has_prismarine_shard": "2021-01-20 17:14:34 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/gold_nugget_from_smelting": {
     "criteria": {
       "has_golden_leggings": "2020-12-22 16:06:13 +0000"
@@ -1694,6 +1707,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/dark_prismarine": {
+    "criteria": {
+      "has_prismarine_shard": "2021-01-20 17:14:34 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/campfire": {
     "criteria": {
       "has_stick": "2020-12-04 15:57:40 +0000"
@@ -1703,6 +1722,12 @@
   "minecraft:adventure/hero_of_the_village": {
     "criteria": {
       "hero_of_the_village": "2021-01-02 16:37:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone": {
+    "criteria": {
+      "has_redstone_block": "2021-01-21 17:57:54 +0000"
     },
     "done": true
   },
@@ -2705,6 +2730,12 @@
   "minecraft:recipes/building_blocks/cyan_stained_glass": {
     "criteria": {
       "has_glass": "2020-12-05 20:18:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/conduit": {
+    "criteria": {
+      "has_nautilus_core": "2021-01-20 17:12:12 +0000"
     },
     "done": true
   },
