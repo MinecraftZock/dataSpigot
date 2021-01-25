@@ -263,6 +263,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/dark_oak_planks": {
+    "criteria": {
+      "has_log": "2021-01-24 17:22:31 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/iron_leggings": {
     "criteria": {
       "has_iron_ingot": "2020-12-05 18:03:04 +0000"
@@ -362,6 +368,12 @@
   "minecraft:recipes/building_blocks/andesite_stairs_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2020-12-05 18:17:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/warped_fence_gate": {
+    "criteria": {
+      "has_planks": "2021-01-24 16:42:35 +0000"
     },
     "done": true
   },
@@ -526,6 +538,7 @@
       "minecraft:pillager": "2020-12-06 17:27:55 +0000",
       "minecraft:skeleton": "2020-12-05 18:33:28 +0000",
       "minecraft:hoglin": "2020-12-23 16:12:28 +0000",
+      "minecraft:vindicator": "2021-01-24 17:25:35 +0000",
       "minecraft:magma_cube": "2021-01-14 18:43:16 +0000",
       "minecraft:spider": "2020-12-05 18:33:17 +0000",
       "minecraft:creeper": "2020-12-05 19:31:14 +0000",
@@ -620,6 +633,12 @@
   "minecraft:recipes/food/cooked_mutton_from_smoking": {
     "criteria": {
       "has_mutton": "2020-12-05 18:10:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/voluntary_exile": {
+    "criteria": {
+      "voluntary_exile": "2021-01-24 17:10:22 +0000"
     },
     "done": true
   },
@@ -1043,6 +1062,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/warped_fence": {
+    "criteria": {
+      "has_planks": "2021-01-24 16:42:35 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/kill_a_mob": {
     "criteria": {
       "minecraft:zombie": "2020-12-05 18:04:40 +0000"
@@ -1085,6 +1110,7 @@
       "minecraft:mountains": "2020-12-05 17:57:41 +0000",
       "minecraft:taiga": "2020-12-19 19:36:09 +0000",
       "minecraft:taiga_hills": "2020-12-19 19:36:29 +0000",
+      "minecraft:desert": "2021-01-24 17:07:06 +0000",
       "minecraft:birch_forest": "2021-01-17 17:47:14 +0000",
       "minecraft:beach": "2020-12-20 08:47:10 +0000",
       "minecraft:dark_forest": "2021-01-17 17:47:25 +0000",
@@ -1386,6 +1412,12 @@
   "minecraft:recipes/decorations/campfire": {
     "criteria": {
       "has_coal": "2020-12-05 18:01:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/hero_of_the_village": {
+    "criteria": {
+      "hero_of_the_village": "2021-01-24 17:26:42 +0000"
     },
     "done": true
   },
@@ -1816,6 +1848,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/warped_pressure_plate": {
+    "criteria": {
+      "has_planks": "2021-01-24 16:42:35 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/golden_apple": {
     "criteria": {
       "has_gold_ingot": "2020-12-05 18:17:30 +0000"
@@ -1849,6 +1887,12 @@
   "minecraft:recipes/tools/iron_shovel": {
     "criteria": {
       "has_iron_ingot": "2020-12-05 18:03:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_oak_wood": {
+    "criteria": {
+      "has_log": "2021-01-24 17:22:31 +0000"
     },
     "done": true
   },
@@ -2128,6 +2172,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/warped_button": {
+    "criteria": {
+      "has_planks": "2021-01-24 16:42:35 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/diamond_axe": {
     "criteria": {
       "has_diamond": "2020-12-06 17:22:23 +0000"
@@ -2158,6 +2208,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/warped_stairs": {
+    "criteria": {
+      "has_planks": "2021-01-24 16:42:35 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/painting": {
     "criteria": {
       "has_wool": "2020-12-05 18:10:37 +0000"
@@ -2167,6 +2223,12 @@
   "minecraft:recipes/building_blocks/white_stained_glass": {
     "criteria": {
       "has_glass": "2020-12-05 19:56:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/warped_trapdoor": {
+    "criteria": {
+      "has_planks": "2021-01-24 16:42:35 +0000"
     },
     "done": true
   },
@@ -2281,6 +2343,12 @@
   "minecraft:recipes/combat/golden_helmet": {
     "criteria": {
       "has_gold_ingot": "2020-12-05 18:17:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/warped_sign": {
+    "criteria": {
+      "has_warped_planks": "2021-01-24 16:42:35 +0000"
     },
     "done": true
   },
@@ -2572,6 +2640,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/warped_door": {
+    "criteria": {
+      "has_planks": "2021-01-24 16:42:35 +0000"
+    },
+    "done": true
+  },
   "minecraft:husbandry/complete_catalogue": {
     "criteria": {
       "textures/entity/cat/black.png": "2020-12-20 19:29:56 +0000"
@@ -2629,6 +2703,12 @@
   "minecraft:recipes/building_blocks/bone_block": {
     "criteria": {
       "has_bonemeal": "2020-12-05 18:35:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/warped_slab": {
+    "criteria": {
+      "has_planks": "2021-01-24 16:42:35 +0000"
     },
     "done": true
   },
