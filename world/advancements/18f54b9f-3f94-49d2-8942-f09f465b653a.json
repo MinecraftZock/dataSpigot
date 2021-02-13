@@ -548,11 +548,13 @@
       "minecraft:magma_cube": "2021-01-14 18:43:16 +0000",
       "minecraft:spider": "2020-12-05 18:33:17 +0000",
       "minecraft:creeper": "2020-12-05 19:31:14 +0000",
+      "minecraft:evoker": "2021-02-12 16:31:13 +0000",
       "minecraft:zombified_piglin": "2020-12-06 18:21:25 +0000",
       "minecraft:witch": "2020-12-06 18:39:14 +0000",
       "minecraft:piglin": "2020-12-23 16:08:48 +0000",
       "minecraft:silverfish": "2020-12-07 17:16:55 +0000",
       "minecraft:enderman": "2020-12-23 16:06:36 +0000",
+      "minecraft:vex": "2021-02-12 16:31:27 +0000",
       "minecraft:zombie": "2020-12-05 18:04:40 +0000",
       "minecraft:drowned": "2020-12-05 18:35:22 +0000"
     },
@@ -705,6 +707,12 @@
   "minecraft:recipes/food/cooked_cod_from_campfire_cooking": {
     "criteria": {
       "has_cod": "2020-12-20 19:27:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_gold_block": {
+    "criteria": {
+      "has_gold_block": "2021-02-12 16:08:05 +0000"
     },
     "done": true
   },
@@ -915,6 +923,12 @@
   "minecraft:recipes/tools/iron_axe": {
     "criteria": {
       "has_iron_ingot": "2020-12-05 18:03:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/glowstone": {
+    "criteria": {
+      "has_glowstone_dust": "2021-02-12 16:54:28 +0000"
     },
     "done": true
   },
@@ -1978,6 +1992,12 @@
   "minecraft:recipes/transportation/activator_rail": {
     "criteria": {
       "has_rail": "2020-12-07 17:50:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/spectral_arrow": {
+    "criteria": {
+      "has_glowstone_dust": "2021-02-12 16:54:28 +0000"
     },
     "done": true
   },
