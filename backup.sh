@@ -7,7 +7,7 @@ BASEDIR=$(dirname "$0")
 
 pushd "$BASEDIR"
 
-pwd
+echo "Now we are in $(pwd)"
 
 git add .
 git commit -m $(date +"%Y-%m-%d")
